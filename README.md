@@ -1,7 +1,6 @@
 ### Eai! Eu sou Rafael Veiga 👋
 
 - 🔭 Hoje trabalho como Analista de Testes/Quality Assurance (QA)
-- 📫 Estou estudando Python e POO (Programação Orientado a Objeto)
 - 😄 Pronouns: ele/dele
 
 <div>
